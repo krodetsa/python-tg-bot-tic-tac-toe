@@ -2,4 +2,4 @@
 A simple implementation of the game tic-tac-toe in python for the Telegram bot
 
 
-pip install python-telegram-bot
+`pip install python-telegram-bot`
